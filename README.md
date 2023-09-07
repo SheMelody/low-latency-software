@@ -1,6 +1,6 @@
 # Melody's Low Latency Software
 
-![v3](https://github.com/SheMelody/low-latency-software/assets/20774468/b59c3aeb-c192-40e1-a365-90228ee869a8)
+![v3](https://github.com/SheMelody/low-latency-software/assets/20774468/a20cf821-6ad6-4b2e-b1d9-3f647c988139)
 
 - What this program does is setting a temporary power plan and set the timer resolution to the lowest value supported.
 
