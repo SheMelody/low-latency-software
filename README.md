@@ -2,6 +2,8 @@
 
 ![v3](https://github.com/SheMelody/low-latency-software/assets/20774468/a20cf821-6ad6-4b2e-b1d9-3f647c988139)
 
+[Official Download Page](https://sites.google.com/view/melodystweaks/windows-11-basic-optimizer)
+
 - What this program does is setting a temporary power plan and set the timer resolution to the lowest value supported.
 
 
