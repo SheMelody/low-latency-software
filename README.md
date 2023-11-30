@@ -4,6 +4,8 @@
 
 [Official Download Page](https://sites.google.com/view/melodystweaks/lowlatencysw)
 
+# If you get "100% CPU usage" after enabling Low Latency, that's a visual bug indicating that idle cycles have been disabled to provide the lowest latency. Please don't ask the reason of "100% CPU usage"!
+
 - What this program does is setting a temporary power plan and set the timer resolution to the lowest value supported.
 
 
